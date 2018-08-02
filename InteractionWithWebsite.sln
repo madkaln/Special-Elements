@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Input Text Box", "InteractionWithWebsite\1.Input Text Box.csproj", "{A69C3956-ABD3-4175-A86D-B565D33C8EDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.CheckBox", "2.CheckBox\2.CheckBox.csproj", "{7DBD7026-E818-41CA-9E69-23EEF662C417}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A69C3956-ABD3-4175-A86D-B565D33C8EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A69C3956-ABD3-4175-A86D-B565D33C8EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A69C3956-ABD3-4175-A86D-B565D33C8EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DBD7026-E818-41CA-9E69-23EEF662C417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DBD7026-E818-41CA-9E69-23EEF662C417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DBD7026-E818-41CA-9E69-23EEF662C417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DBD7026-E818-41CA-9E69-23EEF662C417}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

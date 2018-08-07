@@ -24,7 +24,7 @@ class Program
 
         /* This allows the radiio buttons to be looped through a for loop and select appropriate from the array list above
          * as a kind reminder, array starts from index 0.
-         * Element found with CssSelector and then option 0,1,2 is inputed into the selector.
+         * Element found with CssSelector and then option 0,1,2 is inputed into the selector. 
          */
 
         for (int i = 0; i < option.Length; i++)

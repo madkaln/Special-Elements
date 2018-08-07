@@ -28,10 +28,11 @@ class EntryPoint
             oCheckBox.Click();
         }
 
-       // checkBox = driver.FindElement(By.CssSelector("#post-33 > div > p:nth-child(8) > input[type=\"checkBox\"]:nth-child(" + option + ") "));
-        //call the method to check the checkbox.
-       // checkBox.Click();
-
+        /*
+         * This finds element by using cc selector and option 1 (since the ID was either 1 or 3 on the checkboxe in the website by the decalc
+        checkBox = driver.FindElement(By.CssSelector("#post-33 > div > p:nth-child(8) > input[type=\"checkBox\"]:nth-child(" + option + ") "));
+        checkBox.Click();
+       */
         Thread.Sleep(3000);
 
 
